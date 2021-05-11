@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm JappaBR - 16y </h1>
-
-**Systems development student, an innovator and main Pyke.**
+<img align='right' src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width='220'/>
+<strong>Systems development student, an innovator and main Pyke.</strong>
+<br>
+<br>
 <br><br>
 
 ## 🛠 My characteristics
@@ -22,7 +24,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </li>
   <li>🤝 Open for collaborations.</li>
-  <li><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> Send me a message: JappaBR#2884.</li>
+  <br>
+  <li><img src="https://img.shields.io/badge/JappaBR%232884-7289DA?style=for-the-badge&logo=discord&logoColor=white"> Send me a message!</li>
 </ul>
 <br>
 <br>
@@ -30,6 +33,7 @@
 ## ⚙️ Tech Stack
 
 <br>
+<img align="right" src='https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif'/>
 <p>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
