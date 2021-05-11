@@ -10,14 +10,16 @@
   <li>🧑‍💻 I'm a C# Developer from <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 My focus is currently on the C# but I have experience in some languages;</li>
   <ul>
+     <br>
      <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
      <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></li>
      <li><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></li>
   </ul>
   <li>
-  And know how to set up dynamic sites with <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>, 
+  And know how to set up dynamic sites with 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  &<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </li>
   <li>🤝 Open for collaborations.</li>
   <li><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> Send me a message: JappaBR#2884.</li>
