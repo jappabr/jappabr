@@ -25,7 +25,7 @@
   </li>
   <li>🤝 Open for collaborations.</li>
   <br>
-  <li><img src="https://img.shields.io/badge/JappaBR%232884-7289DA?style=for-the-badge&logo=discord&logoColor=white"> Send me a message!</li>
+  <li><img src="https://img.shields.io/badge/JappaBR%232884%20Send%20me%20a%20message!-7289DA?style=for-the-badge&logo=discord&logoColor=white"></li>
 </ul>
 <br>
 <br>
