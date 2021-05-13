@@ -9,8 +9,8 @@
 
 <br>
 <ul>
-  <li>🧑‍💻 I'm a C# Developer from <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
-  <li>💾 My focus is currently on the C# but I have experience in some languages;</li>
+  <li>👨‍💻 I'm a C# Developer from <b>São Paulo - SP, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+  <li>☁ My focus is currently on the C# but I have experience in some languages;</li>
   <ul>
      <br>
      <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
